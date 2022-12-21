@@ -76,13 +76,17 @@ A STAR schema has been made for OLAP processing.
 
 
 
-## 5. File Descriptions
+## 6. File Descriptions
 
 1. `YELP_DATA_UPLOAD_USING_CLI`: contains the Power Shell command lines to uplaod the large data files. 
 
 2. `ODS_tables.sql`: contains the sql code requires to create tables in the ODS schema, and insert data from staging.
 
 3. `DWH_tables.sql`: contains the sql code requires to create tables in the DWH STAR schema, and insert data from ODS.
+
+4. `Design a Data Warehouse in Snowflake for Reporting and OLAP.pdf`: contains the project writing. 
+
+
 
 
 
