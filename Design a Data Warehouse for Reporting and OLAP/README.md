@@ -30,6 +30,8 @@ b.	2 CSV files: contains weather data
     • Temperature
     • Precipitation
 
+Picture below shows the staging schema tables: 
+
 ![](staging_schema.PNG)
 
 
