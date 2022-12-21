@@ -18,26 +18,26 @@ Data Sources:
 
 a.	JSON files: the JSON files are Yelp data
 
-    •	Business
-    •	Check-in
-    •	Covid
-    •	Review
-    •	Tip
-    •	Users
+    • Business
+    • Check-in
+    • Covid
+    • Review
+    • Tip
+    • Users
 
 b.	2 CSV files: contains weather data
 
-    •	Temperature
-    •	Precipitation
+    • Temperature
+    • Precipitation
 
 ![](staging_schema.PNG)
 
 
-2.	All the files will be then uploaded to the staging schema.
+2.	All the files have been uploaded to the staging schema.
 
-3.	From staging schema, the data will be copied and converted to appropriate data format and will placed into staging schema.
+3.	From staging schema, the data is copied and converted to appropriate data format and placed into staging schema tables.
 
-4.	From staging schema the data will be copied to DWH for the analytical processing environment. 
+4.	From staging schema the data is inserted to DWH table for the analytical processing environment. 
 
 
 
@@ -81,5 +81,10 @@ A STAR schema has been made for OLAP processing.
 2. `ODS_tables.sql`: contains the sql code requires to create tables in the ODS schema, and insert data from staging.
 
 3. `DWH_tables.sql`: contains the sql code requires to create tables in the DWH STAR schema, and insert data from ODS.
+
+
+
+
+
 
 
