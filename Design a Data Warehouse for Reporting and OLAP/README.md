@@ -52,7 +52,7 @@ B. **Yelp Data**: Yelp data contains information related to Business, Review, Ti
 
 
 
-## 4. Transforming Staging to ODS
+## 4. Transform Data From Staging to ODS
 
 SQL code has been used to convert the staging schema tables into ODS tables. 
 
