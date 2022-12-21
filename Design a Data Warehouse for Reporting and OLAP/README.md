@@ -1,4 +1,3 @@
-
 # Data Architect Nano Degree- Project 3
 
 ## 1. Background & Objective of the Project
@@ -40,9 +39,10 @@ b.	2 CSV files: contains weather data
 
 4.	From staging schema the data will be copied to DWH for the analytical processing environment. 
 
-![](data_architecutre_diagram.PNG)
 
-## 3. Staging
+
+## 3. Staging Data
+
 
 A. **Climate Data**: Two climates data files with file size smaller than 50 MB have been uploaded into Snowflake using browser. 
 
@@ -81,3 +81,5 @@ A STAR schema has been made for OLAP processing.
 2. `ODS_tables.sql`: contains the sql code requires to create tables in the ODS schema, and insert data from staging.
 
 3. `DWH_tables.sql`: contains the sql code requires to create tables in the DWH STAR schema, and insert data from ODS.
+
+
