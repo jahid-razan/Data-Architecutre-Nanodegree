@@ -68,7 +68,7 @@ Table below shows the data size in raw, staging and ODS. This clearly indicates,
 ![](size.PNG)
 
 
-## 5. DWH Schema: 
+## 5. DWH Schema 
 
 A STAR schema has been made for OLAP processing. 
 
