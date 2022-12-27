@@ -72,7 +72,7 @@ Table below shows the data size in raw, staging and ODS. This clearly indicates,
 
 A STAR schema has been made for OLAP processing. 
 
-![](star_schema.PNG)
+![](star_schema.PNG) 
 
 
 
