@@ -6,11 +6,11 @@ Tech ABC Corp saw explosive growth with a sudden appearance onto the gaming scen
 
 As such, the HR department has requested the new data architect, to design and build a database capable of managing their employee information.
 
-## 2. [Dataset](https://github.com/jahid-razan/Data-Architecutre-Nanodegree/blob/main/Designing%20an%20HR%20Database/hr-dataset.xlsx)
-The HR dataset is currently in an Excel workbook which consists of 206 records, with eleven columns. The data is in human readable format, and has not been normalized at all. The data lists the names of employees at Tech ABC Corp as well as information such as job title, department, manager's name, hire date, start date, end date, work location, and salary.
+## 2. Dataset
+The [HR dataset](https://github.com/jahid-razan/Data-Architecutre-Nanodegree/blob/main/Designing%20an%20HR%20Database/hr-dataset.xlsx) is currently in an Excel workbook which consists of 206 records, with eleven columns. The data is in human readable format, and has not been normalized at all. The data lists the names of employees at Tech ABC Corp as well as information such as job title, department, manager's name, hire date, start date, end date, work location, and salary.
 
-## 3. [IT Department Best Practices](https://github.com/jahid-razan/Data-Architecutre-Nanodegree/blob/main/Designing%20an%20HR%20Database/IT%20Best%20Practices.pdf)
-The IT Department has certain Best Practices policies for databases as detailed in the Best Practices document.
+## 3. IT Department Best Practices
+The IT Department has certain [best practices policies](https://github.com/jahid-razan/Data-Architecutre-Nanodegree/blob/main/Designing%20an%20HR%20Database/IT%20Best%20Practices.pdf) for databases as detailed in the Best Practices document.
 
 
 
