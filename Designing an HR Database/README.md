@@ -7,7 +7,7 @@ Tech ABC Corp saw explosive growth with a sudden appearance onto the gaming scen
 As such, the HR department has requested the new data architect, to design and build a database capable of managing their employee information.
 
 ## 2. Dataset
-The HR dataset(https://github.com/jahid-razan/Data-Architecutre-Nanodegree/blob/main/Designing%20an%20HR%20Database/hr-dataset.xlsx) is currently in an Excel workbook which consists of 206 records, with eleven columns. The data is in human readable format, and has not been normalized at all. The data lists the names of employees at Tech ABC Corp as well as information such as job title, department, manager's name, hire date, start date, end date, work location, and salary.
+The HR dataset is currently in an Excel workbook which consists of 206 records, with eleven columns. The data is in human readable format, and has not been normalized at all. The data lists the names of employees at Tech ABC Corp as well as information such as job title, department, manager's name, hire date, start date, end date, work location, and salary.
 
 ## 3. IT Department Best Practices
 The IT Department has certain Best Practices policies for databases you should follow, as detailed in the Best Practices document.
@@ -18,7 +18,8 @@ The IT Department has certain Best Practices policies for databases you should f
 ## 4. Steps
 
 
-1. Gather business requirements for a new database request and create a non-technical proposal document. Translate a non-technical proposal into a technical proposal document. 
+1. As the first steps business requirements for a new database request have been gathered and a non-technical proposal document have been prepared. 
+Then, the non-technical proposals have been converted into a technical proposal document. All these are listed in the project ppt file. 
 
 2. Conceptual, Logical and Physical ERD has been created for the data.
 
