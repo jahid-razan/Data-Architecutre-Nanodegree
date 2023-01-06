@@ -17,7 +17,7 @@ The IT Department has certain Best Practices policies for databases you should f
 
 ## 4. Steps
 
-1. As the first steps business requirements for a new database request have been gathered and a non-technical proposal document have been prepared. 
+1. As the first step, business requirements for a new database request have been gathered and a non-technical proposal document have been prepared. 
 Then, the non-technical proposals have been converted into a technical proposal document. All these are listed in the [project ppt file](https://github.com/jahid-razan/Data-Architecutre-Nanodegree/blob/main/Designing%20an%20HR%20Database/Project_Summary.pptx). 
 
 2. Conceptual, Logical and Physical ERD has been created for the data.
