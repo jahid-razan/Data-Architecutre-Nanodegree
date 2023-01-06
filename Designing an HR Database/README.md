@@ -10,7 +10,7 @@ As such, the HR department has requested the new data architect, to design and b
 The HR dataset is currently in an Excel workbook which consists of 206 records, with eleven columns. The data is in human readable format, and has not been normalized at all. The data lists the names of employees at Tech ABC Corp as well as information such as job title, department, manager's name, hire date, start date, end date, work location, and salary.
 
 ## 3. [IT Department Best Practices](https://github.com/jahid-razan/Data-Architecutre-Nanodegree/blob/main/Designing%20an%20HR%20Database/IT%20Best%20Practices.pdf)
-The IT Department has certain Best Practices policies for databases you should follow, as detailed in the Best Practices document.
+The IT Department has certain Best Practices policies for databases as detailed in the Best Practices document.
 
 
 
