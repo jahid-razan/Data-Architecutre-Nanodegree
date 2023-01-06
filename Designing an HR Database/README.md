@@ -6,17 +6,16 @@ Tech ABC Corp saw explosive growth with a sudden appearance onto the gaming scen
 
 As such, the HR department has requested the new data architect, to design and build a database capable of managing their employee information.
 
-## 2. Dataset(https://github.com/jahid-razan/Data-Architecutre-Nanodegree/blob/main/Designing%20an%20HR%20Database/hr-dataset.xlsx)
+## 2.[Dataset](https://github.com/jahid-razan/Data-Architecutre-Nanodegree/blob/main/Designing%20an%20HR%20Database/hr-dataset.xlsx)
 The HR dataset is currently in an Excel workbook which consists of 206 records, with eleven columns. The data is in human readable format, and has not been normalized at all. The data lists the names of employees at Tech ABC Corp as well as information such as job title, department, manager's name, hire date, start date, end date, work location, and salary.
 
-## 3. IT Department Best Practices
+## 3.[IT Department Best Practices](https://github.com/jahid-razan/Data-Architecutre-Nanodegree/blob/main/Designing%20an%20HR%20Database/IT%20Best%20Practices.pdf)
 The IT Department has certain Best Practices policies for databases you should follow, as detailed in the Best Practices document.
 
 
 
 
 ## 4. Steps
-
 
 1. As the first steps business requirements for a new database request have been gathered and a non-technical proposal document have been prepared. 
 Then, the non-technical proposals have been converted into a technical proposal document. All these are listed in the project ppt file. 
@@ -38,16 +37,16 @@ Finally, in the physical model, Crow's foot notations are indicated.
 
 
 
-3. A physical database has been created for the normalized schema using the DDL commands. 
+3. A physical database has been created for the normalized schema using the [DDL commands](https://github.com/jahid-razan/Data-Architecutre-Nanodegree/blob/main/Designing%20an%20HR%20Database/DDL_postgres.sql). 
 
-4. Data has been populated in the database and CRUD commands have been performed to demonstrate a working databasee.
+4. Data has been populated in the database and [CRUD commands](https://github.com/jahid-razan/Data-Architecutre-Nanodegree/blob/main/Designing%20an%20HR%20Database/Questions_CRUD%20operations.sql) have been performed to demonstrate a working database.
 
 
 
 
 ## 5. CRUD operations
 
-Following questions involving CRUD operations have been answered
+Following questions involving CRUD operations have been answered. 
 
 * Question 1: Return a list of employees with Job Titles and Department Names
 * Question 2: Insert Web Programmer as a new job title
