@@ -22,15 +22,15 @@ The IT Department has certain Best Practices policies for databases you should f
 
 2. Conceptual, Logical and Physical ERD has been created for the data.
 
-*Conceptual ERD*:  This is the most general level of data modeling. At the conceptual level, entities are created that represent business objects for the database. 
+**Conceptual ERD**:  This is the most general level of data modeling. At the conceptual level, entities are created that represent business objects for the database. 
 ![](Conceptual_ERD.PNG) 
 
-*Logical ERD*: The logical model is the next level of refinement from the conceptual ERD. At this point,the data is normalized to the 3NF. Attributes are listed in the ERD. 
+**Logical ERD**: The logical model is the next level of refinement from the conceptual ERD. At this point,the data is normalized to the 3NF. Attributes are listed in the ERD. 
 Human-friendly entity and attribute names  are used in the logical model, and while high level relationship lines are required.
 
 ![](Logical_ERD.PNG) 
 
-*Physical ERD*: The physical model is what will be built in the database. Each entity should represent a database table, complete with column names and data types. Primary keys and foreign keys are represented here. Primary keys are indicated using PK designation following the field name. Foreign keys have the designation (FK) after the column name. 
+**Physical ERD**: The physical model is what will be built in the database. Each entity should represent a database table, complete with column names and data types. Primary keys and foreign keys are represented here. Primary keys are indicated using PK designation following the field name. Foreign keys have the designation (FK) after the column name. 
 Finally, in the physical model, Crow's foot notations are indicated.
 
 ![](Physical_ERD.PNG) 
@@ -46,7 +46,7 @@ Finally, in the physical model, Crow's foot notations are indicated.
 
 ## 5. CRUD operations
 
-Following questions involving CRUD operations have been
+Following questions involving CRUD operations have been answered
 
 * Question 1: Return a list of employees with Job Titles and Department Names
 * Question 2: Insert Web Programmer as a new job title
@@ -57,7 +57,7 @@ Following questions involving CRUD operations have been
 * Question 7: Describe how you would apply table security to restrict access to employee salaries using an SQL server.
 
 
-Additional Questions : 
+**Additional Questions**: 
 
 1. Create a view that returns all employee attributes; results should resemble initial Excel file.
 
