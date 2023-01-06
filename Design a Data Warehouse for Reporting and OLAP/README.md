@@ -1,4 +1,4 @@
-# Data Architect Nano Degree- Project 3
+# Data Architect Nano Degree- Project 2
 
 ## 1. Background & Objective of the Project
 
