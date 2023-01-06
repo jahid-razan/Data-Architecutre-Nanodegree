@@ -61,7 +61,7 @@ Following questions involving CRUD operations have been answered.
 
 2. Create a stored procedure with parameters that returns current and past jobs (include employee name, job title, department, manager name, start and end date for position) when given an employee name.
 
-3.Create a non-management user named NoMgr. Show the code of how your would grant access to the database, but revoke access to the salary data.Submit screenshot of code
+3. Create a non-management user named NoMgr. Show the code of how your would grant access to the database, but revoke access to the salary data.Submit screenshot of code
 
 
 
