@@ -26,15 +26,13 @@ Then, the non-technical proposals have been converted into a technical proposal 
 ![](Conceptual_ERD.PNG) 
 
 **Logical ERD**: The logical model is the next level of refinement from the conceptual ERD. At this point,the data is normalized to the 3NF. Attributes are listed in the ERD. 
-Human-friendly entity and attribute names  are used in the logical model, and while high level relationship lines are required.
+Human-friendly entity and attribute names  are used along with high level relationship lines are required.
 
 ![](Logical_ERD.PNG) 
 
-**Physical ERD**: The physical model is what will be built in the database. Each entity should represent a database table, complete with column names and data types. Primary keys and foreign keys are represented here. Primary keys are indicated using PK designation following the field name. Foreign keys have the designation (FK) after the column name. 
-Finally, in the physical model, Crow's foot notations are indicated.
+**Physical ERD**: The physical model is what is built in the database. Each entity represents a database table, complete with column names and data types. Primary keys and foreign keys are represented here. Primary keys are indicated using PK designation following the field name. Foreign keys have the designation (FK) after the column name. Finally, in the physical model, Crow's foot notations are indicated.
 
 ![](Physical_ERD.PNG) 
-
 
 
 3. A physical database has been created for the normalized schema using the [DDL commands](https://github.com/jahid-razan/Data-Architecutre-Nanodegree/blob/main/Designing%20an%20HR%20Database/DDL_postgres.sql). 
