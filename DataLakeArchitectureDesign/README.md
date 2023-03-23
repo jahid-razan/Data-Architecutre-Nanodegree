@@ -36,7 +36,7 @@ It designs a data architecture consisting of:
 * Processing Layer
 * Serving Layer
 
-![](Data Architecture.PNG) 
+![](Data_Architecture.PNG 
 
 It makes a detailed justification of what choice of tools for each layer, why, and how to overcome possible shortcomings of a tool to obtain the desired functionality.
 
