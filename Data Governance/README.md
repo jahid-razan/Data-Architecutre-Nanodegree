@@ -34,9 +34,9 @@ The company plans to expand on this foundation in Phase 2 and build out an Enter
 
 ![](Conceptual_ERD.PNG) 
 
-2. Design the draft version of the Enterprise Data Catalog by documenting the metadata in an [Excel spreadsheet]().
+2. Design the draft version of the Enterprise Data Catalog by documenting the metadata in an [Excel spreadsheet](https://github.com/jahid-razan/Data-Architecutre-Nanodegree/blob/main/Data%20Governance/Business%20metadata.xlsx).
 
-3. Profile the data to identify 3 data quality issues. Create a document that lists each data quality issue, its description, and a suggested remediation strategy for each.
+3. Profile the data to identify data quality issues. Create a [document](https://github.com/jahid-razan/Data-Architecutre-Nanodegree/blob/main/Data%20Governance/Business%20metadata.xlsx) that lists each data quality issue, its description, and a suggested remediation strategy for each.
 
 4. Design a data quality dashboard that will report on the issues you’ve identified above plus at least 1 more issue that you foresee might occur in the future.
 
